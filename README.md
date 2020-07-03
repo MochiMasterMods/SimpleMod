@@ -1,1 +1,2 @@
 # SimpleMod
+A simple mod
